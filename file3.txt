@@ -8,3 +8,13 @@ Este é o exemplo de um ficheiro de texto file3
   <li>Sandes</li>
 </ul>
 
+<<<<<<< HEAD
+<h2>Bebidas</h2>
+
+<ul>
+  <li>Cofffe</li>
+  <li>Tea</li>
+  <li>Milk</li>
+<ul>
+=======
+>>>>>>> NovaFeature
